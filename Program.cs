@@ -10,6 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
