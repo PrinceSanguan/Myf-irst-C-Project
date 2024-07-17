@@ -1,0 +1,10 @@
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form1.resources
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
